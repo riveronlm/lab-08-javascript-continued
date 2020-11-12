@@ -7,4 +7,5 @@ var Jediknights;
 console.log(order);
 console.log(droid);
 console.log(isthisthedroidyourlookingfor);
+console.log(clonewars);
 console.log(Jediknights);
